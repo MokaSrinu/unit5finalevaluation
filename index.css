@@ -1,0 +1,46 @@
+#taskcreatingform{
+    width:30%;
+    margin:auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding:20px;
+    background-color: aliceblue;
+}
+h2{
+    text-align:center;
+    color:blueviolet
+}
+#taskcreatingform div{
+  display:flex;
+    justify-content: center;
+    align-items:center;
+}
+#taskinput{
+    width:200px;
+    padding:10px;
+    display:inline-block;
+}
+#taskstatus{
+    width:40px;
+    height:40px;
+    display:inline-block;
+}
+#taskcreatingform button{
+    width:270px;
+    padding:10px;
+    margin-left:90px;
+    color:darkorchid
+}
+
+table,td,th,tr{
+    border:1px solid  teal;
+    border-collapse: collapse;
+}
+table{
+    width:34%;
+    margin:auto;
+    margin-top:30px;
+}
+thead{
+    background:teal;
+    color:white
+}

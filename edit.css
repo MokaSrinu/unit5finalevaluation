@@ -1,0 +1,32 @@
+#editdata{
+    width:30%;
+    margin:auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding:20px;
+    background-color: aliceblue;
+}
+h2{
+    text-align:center;
+    color:blueviolet
+}
+#editdata div{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+#task{
+    width:200px;
+    padding:10px;
+    display:inline-block;
+}
+#statuscheck{
+    width:40px;
+    height:40px;
+    display:inline-block;
+}
+#editdata button{
+    width:270px;
+    padding:10px;
+    margin-left:90px;
+    color:darkorchid
+}
